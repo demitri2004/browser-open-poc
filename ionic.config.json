@@ -1,0 +1,7 @@
+{
+  "name": "browser4-poc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
